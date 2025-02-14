@@ -108,7 +108,7 @@ This project provides hands-on experience with:
     DELETE /todos/1
     ```
     Response:
-    ```json`
+    ```json
     Status code 204
     ```
 
@@ -122,7 +122,7 @@ The API implements robust error handling and returns appropriate HTTP status cod
 * **404 Not Found:** Resource not found.
 * **500 Internal Server Error:** Server error.
 
-## Bonus Features (If implemented)
+## Bonus Features
 
 * **Filtering and Sorting:**  Implement filtering and sorting options for to-do items.
 * **Unit Tests:**  Include unit tests for API endpoints.
